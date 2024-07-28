@@ -1,0 +1,26 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+
+.arrow-icon {
+  height: 20px;
+  width: 20px;
+}
+.list-item {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 0px;
+}
+.button-item {
+  outline: none;
+  cursor: pointer;
+}
+.para{
+  margin-left:0px;
+}
